@@ -1,6 +1,8 @@
 package main
 
-import "app"
+import (
+	"github.com/Priyakr2205/Banking/app"
+)
 
 func main() {
 	app.Start()
